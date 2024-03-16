@@ -1,8 +1,9 @@
-# React + Vite
+## Debounced search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a react search component I built that will help you and me in integrating search functionality in our future projects in less time. 
+The `./src/components/Search.jsx` contains Longest Common Subsequence alorithm which results in displaying search recommendations based on current string value in the search input field.
 
-Currently, two official plugins are available:
+You can customize the component and the CSS as you wish when you integrate this with you project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If the component helps, you can follow me. 
+Happy coding!!
